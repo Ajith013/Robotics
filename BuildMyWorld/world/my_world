@@ -6049,9 +6049,9 @@
       </spot>
     </light>
     <plugin name='ContainPlugin' filename='libContainPlugin.so'>
-      <enabled>true</enabled>
+      <enabled>1</enabled>
       <entity>four_wheeled_robot::link_0</entity>
-      <namespace>~/contain_example</namespace>
+      <namespace>contain_example</namespace>
       <pose>-11.8174 -3.5 0 0 -0 0</pose>
       <geometry>
         <box>

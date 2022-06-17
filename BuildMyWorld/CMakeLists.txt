@@ -16,8 +16,5 @@ target_link_libraries(TurnOnLightPlugin
   ${GAZEBO_LIBRARIES}
 )
 
-execute_process (
-    COMMAND bash -c "source /usr/share/gazebo/setup.sh"
-)
 
 
