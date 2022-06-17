@@ -1,0 +1,5 @@
+/home/ajith/catkin_ws/src/project_build_my_world/world/CMakeFiles/rebuild_cache.dir
+/home/ajith/catkin_ws/src/project_build_my_world/world/CMakeFiles/edit_cache.dir
+/home/ajith/catkin_ws/src/project_build_my_world/world/CMakeFiles/TurnOnLightPlugin.dir
+/home/ajith/catkin_ws/src/project_build_my_world/world/CMakeFiles/push_cart.dir
+/home/ajith/catkin_ws/src/project_build_my_world/world/CMakeFiles/welcome.dir
